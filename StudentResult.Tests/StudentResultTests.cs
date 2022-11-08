@@ -11,18 +11,26 @@ namespace StudentResultTests
 
         }
         [Fact]
-        public void Test_AddItemsToList()
+        public void Test_ItemAreBeingAddedToList()
         {
-         IStudentMark studentMark = new StudentMark();
-            studentMark.Subject = "LO";
-            studentMark.Percentage = 100;
+            _service.AddMark(new StudentMark
+            {
+                Subject = "LO",
+                Percentage = 80
+            });
+            _service.AddMark(new StudentMark
+            {
+                Subject = "LO",
+                Percentage = 80
+            });
 
-            _service.AddMark(studentMark);
-           Assert.NotNull(studentMark);
+
+            var avg = _service.OverallPercentage();
+            Assert.Equal(80, avg);
         }
 
         [Fact]
-        public void Test_OverAllPercentage_Returns_OverAllPercentage()
+        public void Test_FindPercentageAverage_Returns_OverAllPercentage()
         {
             _service.AddMark(new StudentMark
             {
@@ -41,7 +49,7 @@ namespace StudentResultTests
         }
 
         [Fact]
-        public void Test_Fail_Return_False()
+        public void Test_StudentFail_Return_False()
         {
             _service.AddMark(new StudentMark
             {
@@ -85,7 +93,7 @@ namespace StudentResultTests
         }
 
         [Fact]
-        public void Test_LowestPercentage_Return_LowestPercentage()
+        public void Test_LowestPercentageMark_Return_LowestPercentage()
         {
             _service.AddMark(new StudentMark
             {

@@ -11,18 +11,19 @@ namespace IndividualMarkOfPerson
         private List<IStudentMark> marksLists = new List<IStudentMark>() { };
         public void AddMark(IStudentMark result)
         {
-           marksLists.Add(result);   
+            marksLists.Add(result);   
         }
        public decimal OverallPercentage()
        {
             decimal total = TotalSum();
             decimal averagePercentage = total / marksLists.Count;
             return averagePercentage;
-        }
+       }
 
        public Boolean PassOrFail()
        {
-           var studentAverage = OverallPercentage();
+            var studentAverage = OverallPercentage();
+
             if ( studentAverage >= 60)
             {
                 return true;
@@ -37,7 +38,8 @@ namespace IndividualMarkOfPerson
             for (int i = 0; i < marksLists.Count; i++)
             {
                 var currentValue = marksLists[i].Percentage;
-            if (currentValue < lowestValue)
+
+                if (currentValue < lowestValue)
                 {
                     lowestValue = currentValue;
                 }
