@@ -1,0 +1,15 @@
+C:\Users\lilithan\source\repos\IndividualMarkOfPerson\IndividualMarkOfPerson\obj\Debug\net6.0\IndividualMarkOfPerson.csproj.AssemblyReference.cache
+C:\Users\lilithan\source\repos\IndividualMarkOfPerson\IndividualMarkOfPerson\obj\Debug\net6.0\IndividualMarkOfPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lilithan\source\repos\IndividualMarkOfPerson\IndividualMarkOfPerson\obj\Debug\net6.0\IndividualMarkOfPerson.AssemblyInfoInputs.cache
+C:\Users\lilithan\source\repos\IndividualMarkOfPerson\IndividualMarkOfPerson\obj\Debug\net6.0\IndividualMarkOfPerson.AssemblyInfo.cs
+C:\Users\lilithan\source\repos\IndividualMarkOfPerson\IndividualMarkOfPerson\obj\Debug\net6.0\IndividualMarkOfPerson.csproj.CoreCompileInputs.cache
+C:\Users\lilithan\source\repos\IndividualMarkOfPerson\IndividualMarkOfPerson\bin\Debug\net6.0\IndividualMarkOfPerson.exe
+C:\Users\lilithan\source\repos\IndividualMarkOfPerson\IndividualMarkOfPerson\bin\Debug\net6.0\IndividualMarkOfPerson.deps.json
+C:\Users\lilithan\source\repos\IndividualMarkOfPerson\IndividualMarkOfPerson\bin\Debug\net6.0\IndividualMarkOfPerson.runtimeconfig.json
+C:\Users\lilithan\source\repos\IndividualMarkOfPerson\IndividualMarkOfPerson\bin\Debug\net6.0\IndividualMarkOfPerson.dll
+C:\Users\lilithan\source\repos\IndividualMarkOfPerson\IndividualMarkOfPerson\bin\Debug\net6.0\IndividualMarkOfPerson.pdb
+C:\Users\lilithan\source\repos\IndividualMarkOfPerson\IndividualMarkOfPerson\obj\Debug\net6.0\IndividualMarkOfPerson.dll
+C:\Users\lilithan\source\repos\IndividualMarkOfPerson\IndividualMarkOfPerson\obj\Debug\net6.0\refint\IndividualMarkOfPerson.dll
+C:\Users\lilithan\source\repos\IndividualMarkOfPerson\IndividualMarkOfPerson\obj\Debug\net6.0\IndividualMarkOfPerson.pdb
+C:\Users\lilithan\source\repos\IndividualMarkOfPerson\IndividualMarkOfPerson\obj\Debug\net6.0\IndividualMarkOfPerson.genruntimeconfig.cache
+C:\Users\lilithan\source\repos\IndividualMarkOfPerson\IndividualMarkOfPerson\obj\Debug\net6.0\ref\IndividualMarkOfPerson.dll
